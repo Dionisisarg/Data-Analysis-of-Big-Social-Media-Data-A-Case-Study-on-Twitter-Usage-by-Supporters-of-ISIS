@@ -1,0 +1,2 @@
+# Data-Analysis-of-Big-Social-Media-Data-A-Case-Study-on-Twitter-Usage-by-Supporters-of-ISIS
+This dissertation includes an approach to the process of analyzing large volumes of data in social media, specifically focusing on Twitter. Subsequently, an analysis of a dataset  under study is conducted, which contains all the tweets from supporters of Isis extremists, and significant knowledge is extracted from it through appropriate algorithms.
