@@ -32,6 +32,7 @@ Finally, there is a mapping of the "most tweeted" into a graph. Users have been 
 1. Only senders-red
 2. Only receivers-blue
 3. Senders and receivers-green
+
 The next step involves mapping the edges between nodes where users have tweeted among themselves. The thickness of the edge 
 indicates how many communications have been made. The weight indicates the number of tweets sent between two connected users (Figure 5.5).
 
